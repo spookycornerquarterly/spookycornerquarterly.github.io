@@ -891,80 +891,16 @@ footer p{
         border-radius: 10px;
         box-sizing: border-box;
     }
-    .intrabox12022 h3{
-        font-size: 24px;
-    }
     .intrabox12022 img{
         float: left;
         padding: 35px;
         width: 40%;
-    }
-    .intrabox12022 p{
-        font-size: 18px;
-        padding: 35px;
-    }
-    .intraboxBeta12022 h3{
-        font-size: 28px;
-        text-align: center;
-        padding: 15px;
-    }
-    .intraboxBeta12022 p{
-        font-size: 20.5px;
-        padding: 35px;
-    }
-    .intraboxCharlie12022 h3{
-        font-size: 24px;
-        text-align: center;
-        color: #fff;
     }
     .intraboxCharlie12022 img{
         float: right;
         width: 35%;
         border-radius: 5rem;
         padding: 35px;
-    }
-    .intraboxCharlie12022 p{
-        font-size: 18px;
-        padding: 36px;
-        color: #fff;
-    }
-    /*-----curiPartOne-------*/
-    .dasSubBody h4{
-        padding-top: 15px;
-        font-size: 28px;
-    }
-    .gridOneA p{
-        text-align: justify;
-        font-size: 18px;
-        padding-left: 3.5rem;
-        padding-right: 3.5rem;
-    }
-    .sectionTwo p{
-        text-align: justify;
-        font-size: 18px;
-    }
-    .gridTwoA p{
-        text-align: justify;
-        font-size: 18px;
-        padding-right: 3.5rem;
-        padding-left: 3.5rem;
-    }
-    /*-----Q1 2022 backstory related stories----*/
-    .unitA img{
-        width: 350px;
-        height: 210px;
-        float: right;
-    }
-    .unitB img{
-        width: 350px;
-        height: 210px;
-        float: left;
-    }
-    .unitA p{
-        font-size: 10px;
-    }
-    .unitB p{
-        font-size: 10px;
     }
 }
 
