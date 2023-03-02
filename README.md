@@ -1,7 +1,7 @@
 # spookycornerquarterly.github.io
 We are an online publication designed for telling stories about the paranormal.
 
-We are about enjoyment through storytelling. Utilizing GitHub for our work is ideal because we see ourselves as artists, both in our story telling and
+We are about enjoyment through storytelling. Utilizing GitHub for our work is ideal because we see ourselves as artists, both in our storytelling and
 in our coding. Old school, HTML/CSS is how we were first introduced to the internet, which is why these are the main two langauages in our work. 
 
 As far is the code is concerned, take it, learn it or chop it up, if that is how you best learn as a coder be our guest. In less poetic terms we have added
