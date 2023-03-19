@@ -384,6 +384,12 @@ body{
 .dasNewBody h1{
     padding-bottom: 1.5rem;
 }
+.dasNewBody h2{
+    font-size: 28px;
+}
+.dasNewBody h4{
+    font-size: 20px;
+}
 .subjectOne{
     background: #dcdcdc;
     border-radius: 5rem;
