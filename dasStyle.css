@@ -383,12 +383,13 @@ body{
 }
 .dasNewBody h1{
     padding-bottom: 1.5rem;
+    font-size: 36px;
 }
 .dasNewBody h2{
     font-size: 28px;
 }
 .dasNewBody h4{
-    font-size: 20px;
+    font-size: 24px;
 }
 .subjectOne{
     background: #dcdcdc;
@@ -406,7 +407,7 @@ body{
 .subjectOne p{
     text-align: justify;
     padding: 5rem;
-    font-size: 25.5px;
+    font-size: 22.5px;
 }
 .gridAlphaOne{
     float: right;
