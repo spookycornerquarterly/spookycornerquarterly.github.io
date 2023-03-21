@@ -333,6 +333,12 @@ body{
     box-sizing: content-box;
     margin-top: -2rem;
 }
+.dasTopicBody h2{
+    font-size: 36px;
+}
+.dasTopicBody h4{
+    font-size: 28px;
+}
 .firstStory{
     background: #F5DEB3;
     width: 80%;
