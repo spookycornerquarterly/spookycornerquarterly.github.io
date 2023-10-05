@@ -10,7 +10,7 @@ the Unlicense for the sake of practicality. Below is the pre-written statement a
 In regards to our "journalism" we are really researching topics that interest us, as well as telling stories from our past with a level of fantasy. Much
 of this information is from the public domain, and all photos are from free to use sources or were created by us. 
 
-
+END OF YEAR NOTE 2023: We have actively begun working on a new format, the old one will still be available in a seperate repository. No date yet for the release but the aim is next year. Special thanks to ZJCreates for sponsoring us, so we can bring the code and stories for free.
 
 
 
