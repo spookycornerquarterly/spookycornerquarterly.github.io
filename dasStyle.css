@@ -842,52 +842,14 @@ body{
 
 
 
+/*---fourthQuaterStuff----*/
+.q4new{
+    float: left;
+    width: 35%;
+    border-radius: 10px;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 /*----footer----*/
 footer{
